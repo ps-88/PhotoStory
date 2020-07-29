@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "601606489662",
+    "firebase_url": "https://photostory-33abe.firebaseio.com",
+    "project_id": "photostory-33abe",
+    "storage_bucket": "photostory-33abe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601606489662:android:d046819c42761d5d",
+        "android_client_info": {
+          "package_name": "com.psele.photostory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601606489662-dpq3vuqp49hhlhijemibde8kb27b7j2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLPLNExhkzEtqb2GLCMIplOlMF9RECjK0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
